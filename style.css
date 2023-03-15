@@ -1,0 +1,116 @@
+#logo {
+    text-align: center;
+}
+
+#logo img {
+    height: auto;
+    width: 50%;
+}
+
+.izquierda ul li a {
+    color: #3d97d2;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.izquierda ul li {
+    color: white;
+}
+
+
+
+.izquierda h5 {
+    color: #555658;
+}
+
+.derecho ul li a {
+    text-decoration: none;
+    color: #3d97d2;
+}
+
+.derecho ul li {
+    color: #3d97d2;
+}
+
+.derecho h5 {
+    color: #555658;
+}
+
+.fondocentro {
+
+    background-color: #f8fafa;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #f8fafa;
+
+    padding: 20px;
+}
+
+
+.centro h1 {
+    text-align: left;
+    color: #231f20;
+}
+
+.centro p {
+    color: #555658;
+}
+
+.centro h5 {
+    color: #555658;
+}
+
+.izq2 h5 {
+    color: #555658;
+}
+
+.imagen img {
+    float: left;
+    height: 700px;
+    width: 250px;
+
+}
+
+.imagenes200 img {
+    width: 190px;
+    height: 190px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+
+
+
+}
+
+.mapa h5 {
+    color: #555658;
+}
+
+.barra {
+
+    border-width: 2px;
+    border-style: solid;
+    border-color: #555658;
+}
+
+.formulario h5 {
+    color: #555658;
+}
+
+.formulario label {
+    color: #3d97d2;
+}
+
+.formulario button {
+    background-color: #3d97d2;
+    color: white;
+}
+
+.formulario input {
+    color: gainsboro;
+}
+
+.formulario textarea {
+    color: gainsboro;
+}
